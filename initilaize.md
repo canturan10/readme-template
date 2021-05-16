@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project_Name
 
-> This repo is prepared to present your projects in an understandable and beautiful view.
+This repo is prepared to present your projects in an understandable and beautiful view.
 
 _Source: [readme-template](https://github.com/canturan10/readme-template)_
 

@@ -111,6 +111,26 @@ git clone https://github.com/canturan10/readme-template
 cd readme-template
 bash run.sh
 ```
+<table style="width:100%">
+    <tr>
+        <td align="center">
+            <p>
+                <strong>
+                    when the script is running
+                </strong>
+            </p>
+            <img src="src/screenshot_1.png" width="500px;" alt="install" /><br>
+        </td>
+        <td align="center">
+            <p>
+                <strong>
+                    then the file is ready to be edited
+                </strong>
+            </p>
+            <img src="src/screenshot_2.png" width="500px;" alt="install" /><br>
+        </td>
+    </tr>
+</table>
 
 <!-- TESTS -->
 ## Tests
