@@ -136,7 +136,7 @@ Alternatively see the `GitHub` documentation on [creating a pull request](https:
                 <h3>
                     You ?
                 </h3>
-                <img src="https://raw.githubusercontent.com/canturan10/readme-template/master/src/you.png?token=AIKHBPEVPZ7H4WI7OJAUGPTAVFCCS"
+                <img src="https://raw.githubusercontent.com/canturan10/readme-template/master/src/you.png"
                     width="200px;" alt="Oğuzcan Turan" /><br>
                 <a href="#">
                     <img src="https://img.shields.io/badge/-Reserved%20Place-red?style=flat&logoColor=white"
@@ -175,3 +175,7 @@ The references used in the development of the project are as follows.
    title={Lorem ipsum dolor sit amet}
 }
 ```
+
+Give a ⭐️ if this project helped you!
+![-----------------------------------------------------](https://raw.githubusercontent.com/canturan10/readme-template/master/src/colored_4b.png)
+_This readme file is made using the [readme-template](https://github.com/canturan10/readme-template)_

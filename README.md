@@ -1,4 +1,18 @@
+<!-- IMPORTANT -->
+
+<p align="center">
+    <strong>
+        <a href="#important">IMPORTANT: Follow the Steps Here to Create Your Own Readme File. (Click Here 😉)</a>
+    </strong>
+</p>
+
+<!--
+You can find more line options at https://github.com/canturan10/readme-template/tree/master/src
+-->
+![-----------------------------------------------------](https://raw.githubusercontent.com/canturan10/readme-template/master/src/colored_4b.png)
+
 <!-- PROJECT SUMMARY -->
+
 <p align="center">
     <img width="100px" src="src/readme_template.png" align="center" alt="Readme Template" />
 <h2 align="center">Readme Template</h2>
@@ -15,6 +29,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
+
 <details>
     <summary>
         <strong>
@@ -49,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Readme Template
 
-> This repo is prepared to present your projects in an understandable and beautiful view.
+This repo is prepared to present your projects in an understandable and beautiful view.
 
 _Source: [readme-template](https://github.com/canturan10/readme-template)_
 
@@ -85,7 +100,17 @@ pip install .
 
 A few motivating and useful examples of how your project can be used. Spice this up with additional screenshots, code examples and demos.
 
-_For more examples, please refer to the [Documentation](https://github.com/canturan10/readme-template)
+_For more examples, please refer to the [Documentation](https://github.com/canturan10/readme-template)_
+
+### Important
+
+**Thanks to this script, the special names in the file will be changed. Then you can edit your file as you wish.**
+
+```bash
+git clone https://github.com/canturan10/readme-template
+cd readme-template
+bash run.sh
+```
 
 <!-- TESTS -->
 ## Tests
@@ -116,9 +141,11 @@ Alternatively see the `GitHub` documentation on [creating a pull request](https:
     <tr>
         <td align="center">
             <a href="https://github.com/canturan10">
-                <h3>
-                    Oğuzcan Turan
-                </h3>
+                <p>
+                    <strong>
+                        Oğuzcan Turan
+                    </strong>
+                </p>
                 <img src="https://avatars0.githubusercontent.com/u/34894012?s=460&u=722268bba03389384f9d673d3920abacf12a6ea6&v=4&s=200"
                     width="200px;" alt="Oğuzcan Turan" /><br>
                 <a href="https://www.linkedin.com/in/canturan10/">
@@ -133,14 +160,16 @@ Alternatively see the `GitHub` documentation on [creating a pull request](https:
         </td>
         <td align="center">
             <a href="https://github.com/canturan10">
-                <h3>
-                    You ?
-                </h3>
-                <img src="https://raw.githubusercontent.com/canturan10/readme-template/master/src/you.png?token=AIKHBPEVPZ7H4WI7OJAUGPTAVFCCS"
+                <p>
+                    <strong>
+                        You ?
+                    </strong>
+                </p>
+                <img src="https://raw.githubusercontent.com/canturan10/readme-template/master/src/you.png"
                     width="200px;" alt="Oğuzcan Turan" /><br>
                 <a href="#">
                     <img src="https://img.shields.io/badge/-Reserved%20Place-red?style=flat&logoColor=white"
-                        width="110px;" alt="Reserved" />
+                        width="110px;" alt="Reserved Place" />
                 </a>
             </a>
         </td>
@@ -175,3 +204,11 @@ The references used in the development of the project are as follows.
    title={Lorem ipsum dolor sit amet}
 }
 ```
+
+<!--
+You can find more line options at https://github.com/canturan10/readme-template/tree/master/src
+-->
+
+Give a ⭐️ if this project helped you!
+![-----------------------------------------------------](https://raw.githubusercontent.com/canturan10/readme-template/master/src/colored_4b.png)
+_This readme file is made using the [readme-template](https://github.com/canturan10/readme-template)_
